@@ -1,0 +1,17 @@
+{
+  "name": "websockets_demo",
+  "version": "1.0.0",
+  "description": "A Socket.io chat app demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Sparrow",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
